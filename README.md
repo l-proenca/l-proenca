@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @l-proenca
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Power BI, Satistics, Jupiter, Deep Learning
+- 💞️ I’m looking to collaborate with other people an get a more perfund knowladge 
+- 📫 How to reach me on lucas.tavares.proenca@gmail.com
